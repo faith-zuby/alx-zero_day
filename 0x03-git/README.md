@@ -1,1 +1,1 @@
-my first readme
+my first readme containing discription of all i do
